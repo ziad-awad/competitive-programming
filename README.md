@@ -3,6 +3,9 @@ It includes solutions to both practice and contest problems from:
 
 [Codeforces](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/README.md)  [(Site)](https://codeforces.com/)
 
+[UVA Online Judge](https://github.com/ziad-awad/competitive-programming/blob/main/uva/README.md)  [(Site)](https://onlinejudge.org/)
+
+
 
 
 This repository is personal, made public in the hope that someone may find it useful, but:
