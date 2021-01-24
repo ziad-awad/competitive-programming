@@ -1,6 +1,6 @@
 # Solutions to Codeforces contests
 There are solutions for the following UVa Online Judge problems:
 
-[7A- Kalevitch and Chess](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/7A.cpp)   [(Problem Site)](https://codeforces.com/problemset/problem/7/A)
+[441- Lotto ](https://github.com/ziad-awad/competitive-programming/blob/main/uva/441.cpp)   [(Problem Site)](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=382)
 
-[25A- IQ test](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/25A.cpp)   [(Problem Site)](https://codeforces.com/problemset/problem/25/A)
+[11565 - Simple Equations ](https://github.com/ziad-awad/competitive-programming/blob/main/uva/11565.cpp)   [(Problem Site)](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2612)
