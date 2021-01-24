@@ -1,7 +1,7 @@
 # Solutions to Competitive Programming problems
 It includes solutions to both practice and contest problems from:
 
-[Codeforces](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/README.md)[(Site)](https://codeforces.com/)
+[Codeforces](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/README.md)  [(Site)](https://codeforces.com/)
 
 
 
