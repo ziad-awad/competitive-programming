@@ -19,5 +19,5 @@ There are solutions for the following codeforces problems:
 
 [214A - System of Equations ](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/214A.cpp)   [(Problem Site)](https://codeforces.com/problemset/problem/214/A)
 
-
+[677A - Vanya and Fence ](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/677A.cpp)   [(Problem Site)](https://codeforces.com/problemset/problem/677/A)
 
