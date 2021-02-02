@@ -21,3 +21,4 @@ There are solutions for the following codeforces problems:
 
 [677A - Vanya and Fence ](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/677A.cpp)   [(Problem Site)](https://codeforces.com/problemset/problem/677/A)
 
+[734A - Anton and Danik ](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/734A.cpp)   [(Problem Site)](https://codeforces.com/contest/734/problem/A)
