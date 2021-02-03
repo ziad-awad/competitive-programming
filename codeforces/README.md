@@ -24,3 +24,5 @@ There are solutions for the following codeforces problems:
 [734A - Anton and Danik ](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/734A.cpp)   [(Problem Site)](https://codeforces.com/contest/734/problem/A)
 
 [791A - Bear and Big Brother ](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/791A.cpp)   [(Problem Site)](https://codeforces.com/contest/791/problem/A)
+
+[231A - Team ](https://github.com/ziad-awad/competitive-programming/blob/main/codeforces/231A.cpp)   [(Problem Site)](https://codeforces.com/contest/231/problem/A)
