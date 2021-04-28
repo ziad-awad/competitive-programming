@@ -5,6 +5,9 @@ It includes solutions to both practice and contest problems from:
 
 [UVA Online Judge](https://github.com/ziad-awad/competitive-programming/blob/main/uva/README.md)  [(Site)](https://onlinejudge.org/)
 
+[HakerRank](https://github.com/ziad-awad/competitive-programming/blob/main/uva/README.md)  [(Site)](https://www.hackerrank.com/)
+
+
 
 
 
