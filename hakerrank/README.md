@@ -9,4 +9,6 @@ There are solutions for the following HakerRank problems:
 
 [Conditional Statements](https://github.com/ziad-awad/competitive-programming/blob/main/hakerrank/conditional_statements.cpp)   [(Problem Site)](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)
 
+[For Loop](https://github.com/ziad-awad/competitive-programming/blob/main/hakerrank/for_loop.cpp)   [(Problem Site)](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)
+
 [Functions](https://github.com/ziad-awad/competitive-programming/blob/main/hakerrank/functions.cpp)   [(Problem Site)](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)
